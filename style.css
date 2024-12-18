@@ -262,6 +262,9 @@ footer {
     padding: 0 0;
     margin-left: 50px;
   }
+   .header-ttl {
+    font-size: 21px;
+  }
   .section {
     display: inline;
   }
