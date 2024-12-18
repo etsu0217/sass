@@ -303,11 +303,13 @@ footer {
   .feature  h3 {
     font-size: 20px;
     color: #333;
+    margin-top: 20px;
     margin-bottom: 30px;
   }
   .feature p {
     font-size: 15px;
     color: #333;
+    margin-bottom: 20px;
   }
   div {
     display: inline;
